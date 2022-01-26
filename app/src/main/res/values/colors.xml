@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bluedark">#646893</color>
+    <color name="bluedarkest">#11164e</color>
+    <color name="bluefine">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="myblue">#6d8aff</color>
+    <color name="myorange">#ffaf6d</color>
+    <color name="colorEditTextBackground">#F2F5FA</color>
+    <color name="colorEditTextBorder">#E9EBEF</color>
+    <color name="orange">#FFFF9800</color>
+
+</resources>
